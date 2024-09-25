@@ -1,4 +1,6 @@
 ##### Deployed smartcontract address: CBC7YMQUBQNMCMLH74BJJGV52KT2ONYFDFTBZHVUPKBK5XJNKBRO45IO
+<img width="1428" alt="image" src="https://github.com/user-attachments/assets/cb3ecb61-716c-4d8a-ab9f-2bc51f05ce04">
+
 
 # Decentralized Social Media Platform
 
